@@ -10,3 +10,9 @@ body {
     font-family: 'Montserrat' sans-serif;
     background-color: var(--beige);
 }
+
+.citations p {
+    padding-left: 36px;
+    text-indent: -36px;
+    padding: 3% 8%;
+}
