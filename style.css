@@ -16,3 +16,18 @@ body {
     text-indent: -36px;
     padding: 3% 8%;
 }
+
+.vase img {
+    padding: 2% 1%;
+    max-width: 100%;
+}
+
+.gods {
+    padding-top: 5%;
+    padding-bottom: 2%;
+}
+
+.gods img {
+    max-width: 100%;
+    border-radius: 10%;
+}
