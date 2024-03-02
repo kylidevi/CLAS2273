@@ -31,3 +31,17 @@ body {
     max-width: 100%;
     border-radius: 10%;
 }
+
+.gods p, .myth p{
+    text-align: justify;
+}
+
+nav p {
+    color: white;
+    padding-top: 2%;
+    padding-right: 1%;
+}
+
+.myth h4 {
+    text-align: right;
+}
