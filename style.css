@@ -11,10 +11,13 @@ body {
     background-color: var(--beige);
 }
 
+.citations {
+    padding: 3% 8%;
+}
+
 .citations p {
     padding-left: 36px;
     text-indent: -36px;
-    padding: 3% 8%;
 }
 
 .vase img {
