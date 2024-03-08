@@ -58,3 +58,16 @@ nav p {
 .myth h4 {
     text-align: right;
 }
+
+.myth a {
+    color: var(--orange);
+}
+
+.myth a:hover {
+    color: var(--dark_orange);
+}
+
+.gods p {
+    padding-left: -36px;
+    text-indent: 36px;
+}
