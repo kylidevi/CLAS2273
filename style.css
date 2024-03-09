@@ -3,7 +3,6 @@
 :root {
     --beige: #ebe6df;
     --brown: #454441;
-    --blue: #2D82B7;
     --orange: #d78412;
     --dark_orange: #945b0a;
 }
@@ -67,7 +66,12 @@ nav p {
     color: var(--dark_orange);
 }
 
-.gods p {
+.myth p, .gods p{
     padding-left: -36px;
     text-indent: 36px;
+}
+
+h3 {
+    padding-top: 2%;
+    margin-bottom: -2%;
 }
