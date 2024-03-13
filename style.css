@@ -58,11 +58,11 @@ nav p {
     text-align: right;
 }
 
-.myth a {
+.myth a, .gods a{
     color: var(--orange);
 }
 
-.myth a:hover {
+.myth a:hover, .gods a:hover {
     color: var(--dark_orange);
 }
 
